@@ -1,5 +1,5 @@
 <!-- 💫 Animated Typing Intro -->
-![AskSaqlainAI](https://github.com/user-attachments/assets/727596d6-c22a-475b-bc60-c5d2d2e7aeb8)
+![commswithsaqlain](https://github.com/user-attachments/assets/727596d6-c22a-475b-bc60-c5d2d2e7aeb8)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Saqlain!;AskSaqlainAI+🚀;Mobile+App+Developer+📱;Flutter+Developer+🚀;Digital+Marketer+📈" />
@@ -8,7 +8,7 @@
 <h3 align="center">✨ Passionate Software Engineer from Pakistan | Dreamer | Creator — Turning lines of code into experiences that make a difference. ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AskSaqlainAI&label=Profile%20Views&color=00f7ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=commswithsaqlain&label=Profile%20Views&color=00f7ff&style=flat-square" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 🎨 Designer by passion — UI/UX, video editing, and branding.
 
 - 🌱 Currently learning **AI Integration in Flutter**
-- 👨‍💻 Explore My Work: https://github.com/AskSaqlainAI
+- 👨‍💻 Explore My Work: https://github.com/commswithsaqlain
 - 📫 Connect via **Upwork**
 
 ---
@@ -52,16 +52,16 @@
 <table align="center" style="border:none; border-collapse: collapse;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AskSaqlainAI&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=commswithsaqlain&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="200px" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskSaqlainAI&layout=donut&theme=radical&hide_border=true&border_radius=15" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=commswithsaqlain&layout=donut&theme=radical&hide_border=true&border_radius=15" height="200px" />
     </td>
   </tr>
 </table>
 
 <p align="center" style="margin-top:15px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AskSaqlainAI&theme=radical" width="92%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=commswithsaqlain&theme=radical" width="92%" />
 </p>
 
 </div>
@@ -71,7 +71,7 @@
 ### ⚡ **Activity Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AskSaqlainAI&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=commswithsaqlain&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
